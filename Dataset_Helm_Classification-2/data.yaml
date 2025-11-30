@@ -1,0 +1,14 @@
+names:
+- Helmet
+- Motor
+- No_helmet
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: dataset_helm_classification-9wb1c
+  url: https://universe.roboflow.com/fpkkgunakanhelmdataset/dataset_helm_classification-9wb1c/dataset/2
+  version: 2
+  workspace: fpkkgunakanhelmdataset
+test: ../test/images
+train: ../train/images
+val: ../valid/images
