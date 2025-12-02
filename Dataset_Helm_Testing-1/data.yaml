@@ -1,0 +1,14 @@
+names:
+- Helmet
+- Motor
+- No_helmet
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: dataset_helm_testing-jbyxm
+  url: https://universe.roboflow.com/fpkkgunakanhelmdataset/dataset_helm_testing-jbyxm/dataset/1
+  version: 1
+  workspace: fpkkgunakanhelmdataset
+test: ../test/images
+train: ../train/images
+val: ../valid/images

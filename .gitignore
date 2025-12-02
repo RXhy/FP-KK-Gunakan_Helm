@@ -1,0 +1,12 @@
+# --- DATASET & VIDEO BESAR ---
+test/standardized_videos/
+test/frames_video_test/
+*.mp4
+*.avi
+*.mov
+*.zip
+
+# --- MODEL TRAINING ---
+runs/
+*.pt
+!models/*.pt  
