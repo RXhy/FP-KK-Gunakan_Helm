@@ -8,5 +8,3 @@ test/frames_video_test/
 
 # --- MODEL TRAINING ---
 runs/
-*.pt
-!models/*.pt  
