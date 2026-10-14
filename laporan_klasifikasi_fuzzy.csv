@@ -1,0 +1,10 @@
+Model,Metode,Aman,Ringan,Berat,Akurasi
+YOLO Native,Non-Fuzzy (Crisp),13,36,5,0.5
+YOLO Native,Fuzzy Mamdani,35,15,4,0.24074074074074073
+YOLO Native,Fuzzy Sugeno,35,15,4,0.24074074074074073
+PSO Tracking,Non-Fuzzy (Crisp),44,28,9,0.345679012345679
+PSO Tracking,Fuzzy Mamdani,65,12,4,0.2962962962962963
+PSO Tracking,Fuzzy Sugeno,65,12,4,0.2962962962962963
+GWO Tracking,Non-Fuzzy (Crisp),54,36,5,0.42105263157894735
+GWO Tracking,Fuzzy Mamdani,67,24,4,0.4
+GWO Tracking,Fuzzy Sugeno,67,24,4,0.4
